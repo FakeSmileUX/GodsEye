@@ -22,7 +22,7 @@ __________________
 
 🔺 pkg install python
 
-🔺 git clone https://github.com/FakeSmileUX/GodsEye
+🔺 git clone -b termux https://github.com/FakeSmileUX/GodsEye
 
 🔺 cd GodsEye
 
