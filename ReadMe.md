@@ -67,7 +67,7 @@ $ Thanks for reporting...
 - [ ] Material GUI 
 - [ ] Add Custom Url
 _____________________
-![](https://media.giphy.com/media/27tn33aiTi1jkl6H6/giphy.gif)
+![](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
 
 ▪️Improving better GUI
 
