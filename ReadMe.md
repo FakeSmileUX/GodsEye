@@ -1,61 +1,97 @@
-💻GodsEye
-__________________
-🔺Plase use for educational purposes only...
+### SmileCrackerGui
+_____________________
+🔺Just use for educaitonal purpoeses only
 
-🔺I am not responsible for anything...
+🔺Fıxed bugs and errors.
 
-🔸Creator:FakeSmile
-__________________
-🔺Installation🔺
-__________________
-For Android Termux (Rooted Phones)
-__________________
-🔺 pkg update
+🔺Contact me==>t.me/FakeSmileUX
 
-🔺 pkg upgrade
+🔺Improved stability and speed...
 
-🔺 pkg install git
+🔺Best Phishing Tool
 
-🔺 pkg install tsu
+🔺I am not responsible for Anything
+_____________________
+### Contact Me
 
-🔺 pkg install php
+[GitHub](http://github.com/FakeSmileUX)
 
-🔺 pkg install python
+[Telegram](http://t.me/FakeSmileUX)
 
-🔺 git clone https://github.com/FakeSmileUX/GodsEye
+[BasiCracker](http://github.com/FakeSmileUX/BasiCracker)
+_____________________	
+## Setup For Linux
 
-🔺 cd GodsEye
+```
+$ sudo apt update
+$ sudo apt upgrade
+$ sudo apt install tor php git python python-pip
+$ git clone https://github.com/FakeSmileUX/GodsEye
+$ cd GodsEye
+$ chmod 777 godseye.py
+$ pip3 install -r requirements.txt
+$ sudo python3 godseye.py
+```
+_____________________	
+## Setup For Android
 
-🔺 chmod 777 godseye.py
+```
+$ pkg update
+$ pkg upgrade
+$ pkg install git
+$ pkg install tsu
+$ pkg install php
+$ pkg install python
+$ git clone -b termux https://github.com/FakeSmileUX/GodsEye
+$ cd GodsEye
+$ chmod 777 godseye.py
+$ pip3 install -r requirements.txt
+$ sudo python3 godseye.py
+```
+_____________________	
+### Report Bugs and Errors 
 
-🔺 pip3 install -r requirements.txt
+[Issues](https://github.com/FakeSmileUX/SmileCrackerGui/issues)
+```
+$ Please report all bugs
+$ Thanks for reporting...
+```
+[Issues](https://github.com/FakeSmileUX/SmileCrackerGui/issues)
 
-🔺 sudo python3 godseye.py
-__________________
-For Linux Distros
-__________________
-🔺sudo apt update
+### To Do List
 
-🔺sudo apt upgrade
+- [x] Fıx Bugs
+- [x] Imrove stability
+- [x] Improve Speed
+- [x] Add Interface
+- [ ] Material GUI 
+- [ ] Add Custom Url
+_____________________
+![](https://media.giphy.com/media/27tn33aiTi1jkl6H6/giphy.gif)
 
-🔺sudo apt install tor php git python python-pip
+▪️Improving better GUI
 
-🔺git clone https://github.com/FakeSmileUX/GodsEye
+▪️Adding Custom Url Choise
 
-🔺cd GodsEye
+_____________________
+### Languages and Tools:
 
-🔺chmod 777 godseye.py
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
+<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />
+<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-🔺pip3 install -r requirements.txt
-
-🔺sudo python3 godseye.py
-__________________
-🔸Created by FakeSmile
-
-🔸Tested phones==> Sony Xperia Z5, Sony Xperia Z5 Dual, Redmi K20/Mi9T, Nexus4, Redmi Note8 Pro
-
-🔸Tested Android Versions==> Android 7.1, Android 8.0, Andoid 10, Android 11(With Emulator)
-
-🔸Tested Linux Distros==> Ubuntu 20.04, Kali Linux 2020.2, Debian 10.5.0
-
-🔸Not Tested on Windows but you can try...
+<br />
+<br />
